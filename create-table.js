@@ -13,6 +13,9 @@ connection.connect(function(err){
     console.log('conectou');
     //createTable(connection);
 });
+
+
+
 /*
 function createTable(conn){
 
